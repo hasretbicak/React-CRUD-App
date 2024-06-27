@@ -1,0 +1,24 @@
+{
+
+    "users" : [
+        {
+            "id" : "unique-1",
+            "name": "Ebru Gündüz",
+            "salary" : "20000",
+            "department": "Bilişim"
+        },
+        {
+            "id" : "unique-2",
+            "name": "Ferhat Biçak",
+            "salary" : "25000",
+            "department": "Üretim"
+        },
+        {
+            "id" : "unique-3",
+            "name": "Murat Biçak",
+            "salary" : "10000",
+            "department": "Pazarlama"
+        }
+    ]
+
+}
